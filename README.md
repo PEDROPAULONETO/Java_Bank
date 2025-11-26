@@ -42,3 +42,8 @@ Este projeto foi desenvolvido como um exercício prático de programação em Ja
 -   **Java:** Linguagem de programação principal do projeto.
 -   **Gradle:** Ferramenta de automação de compilação e gerenciamento de dependências.
 -   **IDE (IntelliJ IDEA):** Ambiente de desenvolvimento integrado utilizado para a codificação e gerenciamento do projeto.
+
+## 🔗 Links
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PEDROPAULONETO/k8s-projeto1-app-base/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulosneto/)
+
